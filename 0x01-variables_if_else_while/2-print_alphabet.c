@@ -1,14 +1,14 @@
 #include <stdio.h>
 /**
- * main - Header phrase
- * Return: 0 (Good)
+ * main - Entry point
+ * Return: Always 0 (Success)
  */
 
 int main(void)
 {
 	char c;
 	
-	c = 'b';
+	c = 'a';
 	while 
 		(c <= 'z') {
 			putchar(c);
