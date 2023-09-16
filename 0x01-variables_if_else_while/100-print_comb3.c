@@ -2,7 +2,7 @@
 /**
  * main - main function
  *
- * Return: always 0
+ * REturn: 0 on success
  */
 
 int main(void)
@@ -12,7 +12,7 @@ int main(void)
 
 	while (i <= '9')
 	{
-		while (j <= '9')		       	
+		while (j <= '9')
 		{
 			if (!(i > j) || i == j)
 			{
@@ -35,3 +35,4 @@ int main(void)
 	}
 return (0);
 }
+
