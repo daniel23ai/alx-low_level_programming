@@ -1,1 +1,1 @@
-C - Pointers, arrays and strings
+0x12. C - Singly linked lists
